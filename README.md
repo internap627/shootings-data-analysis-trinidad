@@ -6,6 +6,12 @@ This project analyzes gun-related incidents in Trinidad and Tobago from January 
 - Categorization of shootings
 - Location extraction with latitude and longitude for geographical mapping
 
+## Tableau Visualization
+
+You can explore the animated visualization of gun violence incidents in Trinidad and Tobago on Tableau Public here:
+
+[View the Visualization on Tableau](https://public.tableau.com/views/TrinidadShootingsMap2024/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Included Files:
 - main.py: The primary Python script for preprocessing the articles, labeling incidents, and extracting locations.
 - locations.py: A file containing a list of cities/towns in Trinidad and Tobago along with their latitude and longitude coordinates.
